@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-14T11:01:45 EDT" name="Default suite" finished-at="2020-04-14T11:01:51 EDT" duration-ms="6146">
+    <groups>
+    </groups>
+    <test started-at="2020-04-14T11:01:45 EDT" name="Default test" finished-at="2020-04-14T11:01:51 EDT" duration-ms="6146">
+      <class name="com.test.rest.RestAutomation">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.test.rest.RestAutomation@3541cb24]" started-at="2020-04-14T11:01:45 EDT" name="setup" finished-at="2020-04-14T11:01:46 EDT" duration-ms="1482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="GET_Deck()[pri:0, instance:com.test.rest.RestAutomation@3541cb24]" started-at="2020-04-14T11:01:46 EDT" name="GET_Deck" finished-at="2020-04-14T11:01:50 EDT" duration-ms="3241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GET_Deck -->
+        <test-method signature="GET_drawFromDeck()[pri:0, instance:com.test.rest.RestAutomation@3541cb24]" started-at="2020-04-14T11:01:50 EDT" name="GET_drawFromDeck" finished-at="2020-04-14T11:01:50 EDT" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GET_drawFromDeck -->
+        <test-method signature="Get_Add_JokerEnabled()[pri:0, instance:com.test.rest.RestAutomation@3541cb24]" started-at="2020-04-14T11:01:50 EDT" name="Get_Add_JokerEnabled" finished-at="2020-04-14T11:01:51 EDT" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_Add_JokerEnabled -->
+        <test-method signature="Get_drawFromDeckCount()[pri:0, instance:com.test.rest.RestAutomation@3541cb24]" started-at="2020-04-14T11:01:51 EDT" name="Get_drawFromDeckCount" finished-at="2020-04-14T11:01:51 EDT" duration-ms="436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_drawFromDeckCount -->
+      </class> <!-- com.test.rest.RestAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

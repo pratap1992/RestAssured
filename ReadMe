@@ -1,0 +1,13 @@
+Environment:
+Window
+java 1.8
+Maven 
+testNg
+Eclipse [optional]
+Internet Connection.
+
+Make sure all the Maven Dependencies downloaded and in build path of the project.
+
+ Right Click on the Project Folder "RestAssured" and --> RunAs --> TestNG
+
+You can see the all Test should be run and passed if the there is no Network issue .
